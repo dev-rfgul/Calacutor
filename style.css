@@ -1,0 +1,50 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Lato:wght@700&family=Roboto:ital,wght@1,100;1,900&display=swap');
+
+
+button{
+    /* height: 8vh;
+    width: 4vw; */
+    width: 66px;
+    padding: 20px;
+    margin: 0px 3px;
+    border: 3px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: grey;
+    
+}
+button:hover{
+    width: 66px;
+    padding: 20px;
+    margin: 0px 3px;
+    border: 3px solid black;
+    border-radius: 100px ;
+    border-color: goldenrod;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+.special-button{
+    background-color: goldenrod;
+
+}
+.row{
+    margin: 8px 0px;    
+}   
+.row input{
+    width: 290px;
+    /* height: 10vh; */
+    font-size: 20px;
+    margin:  0px;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 7px;
+}
+
+.font-bold{
+    font-family: 'Caprasimo', cursive;
+font-family: 'Lato', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
